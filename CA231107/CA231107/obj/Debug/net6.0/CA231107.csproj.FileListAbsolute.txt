@@ -1,0 +1,15 @@
+C:\Users\BOSS\source\repos\CA231107\CA231107\bin\Debug\net6.0\CA231107.exe
+C:\Users\BOSS\source\repos\CA231107\CA231107\bin\Debug\net6.0\CA231107.deps.json
+C:\Users\BOSS\source\repos\CA231107\CA231107\bin\Debug\net6.0\CA231107.runtimeconfig.json
+C:\Users\BOSS\source\repos\CA231107\CA231107\bin\Debug\net6.0\CA231107.dll
+C:\Users\BOSS\source\repos\CA231107\CA231107\bin\Debug\net6.0\CA231107.pdb
+C:\Users\BOSS\source\repos\CA231107\CA231107\obj\Debug\net6.0\CA231107.csproj.AssemblyReference.cache
+C:\Users\BOSS\source\repos\CA231107\CA231107\obj\Debug\net6.0\CA231107.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOSS\source\repos\CA231107\CA231107\obj\Debug\net6.0\CA231107.AssemblyInfoInputs.cache
+C:\Users\BOSS\source\repos\CA231107\CA231107\obj\Debug\net6.0\CA231107.AssemblyInfo.cs
+C:\Users\BOSS\source\repos\CA231107\CA231107\obj\Debug\net6.0\CA231107.csproj.CoreCompileInputs.cache
+C:\Users\BOSS\source\repos\CA231107\CA231107\obj\Debug\net6.0\CA231107.dll
+C:\Users\BOSS\source\repos\CA231107\CA231107\obj\Debug\net6.0\refint\CA231107.dll
+C:\Users\BOSS\source\repos\CA231107\CA231107\obj\Debug\net6.0\CA231107.pdb
+C:\Users\BOSS\source\repos\CA231107\CA231107\obj\Debug\net6.0\CA231107.genruntimeconfig.cache
+C:\Users\BOSS\source\repos\CA231107\CA231107\obj\Debug\net6.0\ref\CA231107.dll
